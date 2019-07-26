@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="i_am_thinking_a_number_between_1_and_20">I\'am thinking a number between 1 and 20.</string>
+    <string name="textview">TextView</string>
+    <string name="can_you_guess_it">Can you guess it?</string>
+</resources>
